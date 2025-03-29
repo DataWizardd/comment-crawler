@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Investing.com USD/KRW Comment Crawler
 
-한국어 투자 커뮤니티 포털 [Investing.com](https://kr.investing.com)에서  
-💬 USD/KRW 환율 토론 게시판의 **댓글 데이터를 수집**하는 Node.js 기반 크롤러입니다.
+한국어 투자 커뮤니티 포털 [Investing.com](https://kr.investing.com)에서 (타사이트 가능)  
+💬  **댓글 데이터를 수집**하는 Node.js 기반 크롤러입니다.
 
 ## 📌 주요 기능
 
