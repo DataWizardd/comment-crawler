@@ -12,7 +12,7 @@ const path = require("path");
 
   const page = await browser.newPage();
   const startId = 374; // to 2024
-  const endId = 12375; // from 2020
+  const endId = 1000; // from 2020 (timeout 15000)
   const results = [];
 
   for (let postId = startId; postId <= endId; postId++) {
