@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Investing.com USD/KRW Comment Crawler
+# 🕵️‍♂️ Comment Crawler
 
 투자 커뮤니티 포털 [Investing.com](https://kr.investing.com)에서 (타사이트 가능)  
 💬  **댓글 데이터를 수집**하는 Node.js 기반 크롤러입니다.
