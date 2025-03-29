@@ -15,6 +15,6 @@
 ## 🚀 설치 방법
 
 ```bash
-git clone https://github.com/your-username/investing-krw-comment-crawler.git
-cd investing-krw-comment-crawler
+git clone https://github.com/your-username/comment-crawler.git
+cd comment-crawler
 npm install
